@@ -25,7 +25,7 @@ int main(int argc, char *argv[])
 
 	//initializing Network communication
 	remote.create();
-
+	
 	/* Waiting fo Start command */
 	while (true) {
 

@@ -1,5 +1,4 @@
-# Quadrocopter
-DIY Project mit dem Kit DJI F450 FlameWheel um einen Quadrocopter names "Phoenix" zu erstellen, der ohne Flugcontroller nur durch einen Raspberry Pi gesteuert wird.
-
-http://www.catb.org/gpsd/client-howto.html#_c_examples
-http://www.forum-raspberrypi.de/Thread-c-c-gps-modul-ublox-gy-neo-6m-mit-c-programmieren
+# Quadcopter
+This is a DIY Project to create a selfmade Quadcopter as well as a RC-Controller with an Arduino. 
+For both of previously mentioned elements i used an Arduino Uno with a XBee Module for the wireless communication.
+To get more details about my approach and the functionality of the Quadcopter, please check out my Wiki to this GitHub Project.

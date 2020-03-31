@@ -1,5 +1,3 @@
-# NEW REPOSITORY IN GITHUB: [https://github.com/jostoehr/arducopter](https://github.com/jostoehr/arducopter)
-
 ## DIY Arduino Quadcopter
 This is a DIY Project to create a selfmade Quadcopter as well as a RC-Controller with an Arduino. 
 For both of previously mentioned elements i used an Arduino Uno with a XBee Module for the wireless communication.
